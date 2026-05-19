@@ -2,9 +2,11 @@
 
 ## Final Presentation
 
-**[Final Presentation](./final%20presentation/)** — The final presentation slides and demo video are located in this folder.
+**[Final Presentation](./final%20presentation/)** — The final presentation slides are located in this folder.
 
-## [Click Here to Watch on YouTube](https://www.youtube.com/watch?v=43uaMU5MOEs)
+## [Click Here to Watch Slides Presentation Recording](https://youtu.be/OD01qWfb_34)
+
+## [Click Here to Watch demo on YouTube](https://www.youtube.com/watch?v=43uaMU5MOEs)
 
 ## [Full Project Documentation](./project%20documents/TeamMatch_Project_Documentation.txt)
 

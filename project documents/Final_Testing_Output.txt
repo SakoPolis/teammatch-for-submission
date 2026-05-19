@@ -1,0 +1,45 @@
+TeamMatch Final Testing Output
+
+Team tested:
+TeamMatch backend API and deployed web app
+
+APIs tested:
+- GET /health
+- GET / and frontend deployment entry point
+- Courses routes
+- Students routes
+- Teams routes
+- MatchRuns routes
+- Check-Ins routes
+- Contributions routes
+- Notifications routes
+- Projects routes
+- Analytics route
+
+What is good:
+- The live backend health endpoint responds successfully with {"status":"ok"}.
+- The backend has a broad API surface that covers courses, students, teams, matching, check-ins, contributions, notifications, projects, and analytics.
+- The matching flow is explainable and deterministic, which supports instructor review.
+- The project includes a deployed frontend URL in the documentation and a GitHub Actions deployment pipeline.
+- The team health analysis endpoint integrates Anthropic Claude for higher-level qualitative feedback.
+
+Issues found:
+- The GitHub release was created from the v0.1 tag, but the release title still reflects the commit message instead of a presentation-friendly label.
+- The deployment URL is documented, but it still needs to be copied into the final release description for submission.
+- I did not find a dedicated automated API test suite in the repository; most validation appears to be manual or document-based.
+
+Suggestions:
+- Rename the release to Proof of Concept for a cleaner submission page.
+- Add the deployed frontend and backend URLs directly to the release notes.
+- Include a short manual API test log or Postman collection export for the final submission.
+- If time allows, add lightweight automated checks for the health endpoint and one representative CRUD route.
+
+Deployment reference:
+- Frontend API base URL documented in project documents/TeamMatch_Project_Documentation.txt
+- Live backend health check verified successfully at the deployed Azure App Service endpoint
+
+Individual accountability prompts:
+- Explain the matching algorithm and how team scores are calculated.
+- Show one request/response example for creating a course or student.
+- Explain the 404 and 503 error cases in the team analysis flow.
+- Describe what your team found during manual testing and how it was addressed.

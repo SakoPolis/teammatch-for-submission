@@ -1,9 +1,12 @@
 # TeamMatch
 
 <p>
-	<img src="assets/favicon_globe.svg" alt="site" width="28" height="28" />
-	<img src="assets/favicon_file.svg" alt="docs" width="28" height="28" />
-	<img src="assets/favicon_next.svg" alt="next" width="28" height="28" />
+	<a href="https://teammatch-one.vercel.app/">
+		<img src="assets/favicon_tm.svg" alt="TeamMatch site" width="28" height="28" />
+	</a>
+	<a href="project%20documents/TeamMatch_Project_Documentation.txt">
+		<img src="assets/favicon_file.svg" alt="Project docs" width="28" height="28" />
+	</a>
 </p>
 
 ## Final Presentation

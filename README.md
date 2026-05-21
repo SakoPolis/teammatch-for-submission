@@ -51,3 +51,7 @@ Anthropic Claude Console - token usage:
 Anthropic Claude Console - billing credit:
 
 ![Claude billing credit](assets/claude_billing_credit.jpg)
+
+Student view (frontend - CS499):
+
+![Student view frontend](assets/student_view_cs499.png)

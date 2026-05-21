@@ -42,12 +42,12 @@ TeamMatch is a cloud-native web application that forms balanced, schedule-compat
 
 Students table (backend):
 
-![Students table](final%20presentation/Students%20table.jpg)
+![Students table](assets/students_table.jpg)
 
 Anthropic Claude Console - token usage:
 
-![Claude token usage](final%20presentation/ClaudeConsoleTOkenUSage.jpg)
+![Claude token usage](assets/claude_token_usage.jpg)
 
 Anthropic Claude Console - billing credit:
 
-![Claude billing credit](final%20presentation/ClaudeConsoleBillingCredit.jpg)
+![Claude billing credit](assets/claude_billing_credit.jpg)

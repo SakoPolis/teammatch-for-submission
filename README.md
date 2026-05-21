@@ -37,3 +37,17 @@ TeamMatch is a cloud-native web application that forms balanced, schedule-compat
 - Deterministic team optimization engine
 - Explainable team assignment summaries
 - Async job processing for match runs
+
+## Screenshots
+
+Students table (backend):
+
+![Students table](final%20presentation/Students%20table.jpg)
+
+Anthropic Claude Console - token usage:
+
+![Claude token usage](final%20presentation/ClaudeConsoleTOkenUSage.jpg)
+
+Anthropic Claude Console - billing credit:
+
+![Claude billing credit](final%20presentation/ClaudeConsoleBillingCredit.jpg)

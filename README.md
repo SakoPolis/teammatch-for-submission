@@ -1,5 +1,11 @@
 # TeamMatch
 
+<p>
+	<img src="assets/student_view_cs499.png" alt="student view" width="28" height="28" />
+	<img src="assets/students_table.jpg" alt="students table" width="28" height="28" />
+	<img src="assets/claude_token_usage.jpg" alt="claude" width="28" height="28" />
+</p>
+
 ## Final Presentation
 
 **[Final Presentation](./final%20presentation/)** — The final presentation slides are located in this folder.

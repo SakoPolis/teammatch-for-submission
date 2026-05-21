@@ -1,9 +1,9 @@
 # TeamMatch
 
 <p>
-	<img src="assets/student_view_cs499.png" alt="student view" width="28" height="28" />
-	<img src="assets/students_table.jpg" alt="students table" width="28" height="28" />
-	<img src="assets/claude_token_usage.jpg" alt="claude" width="28" height="28" />
+	<img src="assets/favicon_globe.svg" alt="site" width="28" height="28" />
+	<img src="assets/favicon_file.svg" alt="docs" width="28" height="28" />
+	<img src="assets/favicon_next.svg" alt="next" width="28" height="28" />
 </p>
 
 ## Final Presentation
